@@ -6,7 +6,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@playwright/test": "^1.44.1",
     "@types/node": "^20.14.2",
@@ -14,5 +13,9 @@
   },
   "dependencies": {
     "typescript": "^5.4.5"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
 }
